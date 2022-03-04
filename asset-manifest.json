@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SKN-Informatyki/static/css/main.7757dfd9.css",
+    "main.js": "/SKN-Informatyki/static/js/main.4f8a1f59.js",
+    "static/js/787.28cb0dcd.chunk.js": "/SKN-Informatyki/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/SKN-Informatyki/index.html",
+    "static/media/icons8-linkedin.svg": "/SKN-Informatyki/static/media/icons8-linkedin.2905a74b930272fdc5816dc678383057.svg",
+    "static/media/search_white_24dp.svg": "/SKN-Informatyki/static/media/search_white_24dp.66ea5ec3d91c7a187e14.svg",
+    "static/media/icons8-facebook.svg": "/SKN-Informatyki/static/media/icons8-facebook.33ead344143d433499e609c397ea65db.svg",
+    "static/media/chevron_right_white_24dp.svg": "/SKN-Informatyki/static/media/chevron_right_white_24dp.2b8dbc638e8fafbe574efaeb9fb800ed.svg",
+    "static/media/menu_white_24dp.svg": "/SKN-Informatyki/static/media/menu_white_24dp.f8235882574e17fb850f4c89f02d8fe3.svg",
+    "main.7757dfd9.css.map": "/SKN-Informatyki/static/css/main.7757dfd9.css.map",
+    "main.4f8a1f59.js.map": "/SKN-Informatyki/static/js/main.4f8a1f59.js.map",
+    "787.28cb0dcd.chunk.js.map": "/SKN-Informatyki/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7757dfd9.css",
+    "static/js/main.4f8a1f59.js"
+  ]
+}
