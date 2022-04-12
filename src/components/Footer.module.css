@@ -1,0 +1,19 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  background-color: #441750;
+  color: white;
+  width: 100%;
+}
+
+.footer-media {
+  display: flex;
+  justify-content: space-between;
+  padding: 1%;
+}
+
+.footer-contact {
+  background-color: gray;
+  color: white;
+  padding: 1%;
+}

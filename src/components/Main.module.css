@@ -1,0 +1,15 @@
+.title {
+  font-family: "Roboto", "Helvetica Neue", "sans-serif";
+  text-align: center;
+  max-width: 40rem;
+  width: 90%;
+  margin: auto;
+  margin-top: 1%;
+  position: relative;
+  background-color: white;
+  color: #441750;
+  padding: 1rem;
+  border-bottom: 4px solid #589c2b;
+}
+
+/*  box-shadow: 0 1px 18px 10px rgba(0, 0, 0, 0.25); */

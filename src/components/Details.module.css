@@ -1,0 +1,42 @@
+.detail {
+  color: black;
+  border-radius: 5px;
+  box-shadow: none;
+}
+
+.button {
+  font-size: 20px;
+  background: none;
+  border: none;
+  text-align: end;
+  color: #441850;
+  width: 100%;
+}
+
+.prowadzacyp {
+  text-align: center;
+  font-size: large;
+  font-weight: bolder;
+}
+
+.button:hover {
+  cursor: pointer;
+}
+
+.kierunek {
+  color: #441850;
+  font-size: 15px;
+  padding: 1%;
+  margin: 1%;
+  border-top: 2px solid #589c2b;
+  border-bottom: 2px solid #589c2b;
+}
+
+.description {
+  padding: 1%;
+  margin: 1%;
+  border-top: 2px solid #589c2b;
+  border-bottom: 2px solid #589c2b;
+  font-family: "Roboto", "Helvetica Neue", "sans-serif";
+  font-size: 15px;
+}

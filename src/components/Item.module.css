@@ -1,0 +1,41 @@
+.container {
+  justify-content: center;
+  display: flex;
+}
+
+.item {
+  width: 84%;
+  color: #441850;
+  background-color: white;
+  border: none;
+  margin: 0.1%;
+  box-shadow: -1px 1px 5px #a9a9a9;
+}
+
+.button {
+  width: 100%;
+  background-color: white;
+  border: none;
+  display: flex;
+  align-items: center;
+  padding: 1.25%;
+  box-shadow: none;
+  font-weight: bolder;
+  color: #441850;
+  font-size: 20px;
+  font-family: "Roboto", "Helvetica Neue", "sans-serif";
+}
+
+.button:hover {
+  cursor: pointer;
+  background-color: rgb(229, 226, 226);
+}
+
+.img {
+  transform: rotate(180deg);
+  animation: 1s;
+}
+
+.open {
+  margin: 0.5%;
+}
